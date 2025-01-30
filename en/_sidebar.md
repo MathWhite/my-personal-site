@@ -1,0 +1,4 @@
+- [<i class="mdi mdi-star-four-points"></i> Intro](/en/README.md)
+- [<i class="mdi mdi-information"></i> About](/en/about.md)
+- [<i class="mdi mdi-rocket-launch"></i> Projects](/en/projects.md)
+- [<i class="mdi mdi-email"></i> Contact](en/contact.md)

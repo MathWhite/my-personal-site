@@ -1,0 +1,47 @@
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+.app-name {
+  font-size: 22px !important;
+  font-weight: bold;
+}
+
+.sidebar {
+  width: 200px !important;
+}
+.sidebar a {
+  font-size: 20px !important;
+  padding-right: 5px !important;
+}
+.sidebar li {
+  padding: 5px 0;  
+}
+
+
+.mdi {
+  font-size: 22px;  /* Aumenta o tamanho do ícone */
+  margin: none; /* Diminui a distância entre o ícone e o texto */
+  padding: none;
+  vertical-align: middle;  /* Alinha verticalmente o ícone ao texto */
+}
+
+#theme-menu {
+  display: none; /* Inicialmente oculto */
+  position: absolute;
+  background: white;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+}
+
+.theme-option {
+  padding: 8px;
+  cursor: pointer;
+}
+
+.theme-option:hover {
+  background: #f0f0f0;
+}
