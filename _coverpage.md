@@ -7,7 +7,7 @@
 > Seja bem vindo(a) ao meu site pessoal
 
 Feito por **Matheus Carvalho**  
-Distribuído por **Docsify**  
+Desenvolvido com **Docsify**  
 Hospedado em **GitHub Pages**
 
 [Iniciar](README.md)
