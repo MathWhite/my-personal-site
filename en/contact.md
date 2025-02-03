@@ -10,4 +10,4 @@
 
 ---
 
-I look forward to hearing from you! �
+I look forward to hearing from you!
